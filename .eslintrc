@@ -39,7 +39,7 @@
     "guard-for-in": 2,
     "indent": [2, 2],
     "max-nested-callbacks": [2, 3],
-    "new-cap": 2,
+    "new-cap": 0,
     "no-bitwise": 0,
     "no-caller": 2,
     "no-cond-assign": [
