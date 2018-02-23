@@ -1,0 +1,4 @@
+# with .gitattributes
+# *.scpt diff=applescript
+[diff "applescript"]
+  textconv = osadecompile
